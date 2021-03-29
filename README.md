@@ -1,2 +1,2 @@
 # blog-app
-jimmy test
+
