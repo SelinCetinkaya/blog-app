@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 import Home from './screens/Home'
 // import Posts from './screens/Posts'
-=======
 
 import Posts from './screens/Posts'
->>>>>>> 098a08e03c1abd7f9e7666038af4d210dfe9a265
 import './App.css';
-import Home from './screens/Home/Home'
+
 // import Posts from './screens/Posts/Posts'
 // import PostCreate from './screens/PostCreate/PostCreate'
 // import PostEdit from './screens/PostEdit/PostEdit'
