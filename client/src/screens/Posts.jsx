@@ -1,6 +1,4 @@
-function Posts(props) {
-  return (
-    <div>Posts</div>
-  )
+function Post(props) {
+  return <div>Posts</div>;
 }
-export default Posts;
+export default Post;
