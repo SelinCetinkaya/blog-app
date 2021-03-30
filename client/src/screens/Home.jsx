@@ -1,4 +1,4 @@
-import Post from '../components/Post/Post';
+import Posts from '../../components/Posts/Posts';
 import Header from '../components/Header/Header';
 function Home(props) {
   return (
