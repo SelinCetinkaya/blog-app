@@ -1,14 +1,14 @@
-import Home from './screens/Home'
+import Home from "./screens/Home";
 // import Posts from './screens/Posts'
 
-import Posts from './screens/Posts'
-import './App.css';
+import Posts from "./screens/Posts";
+import "./App.css";
 
 // import Posts from './screens/Posts/Posts'
 // import PostCreate from './screens/PostCreate/PostCreate'
 // import PostEdit from './screens/PostEdit/PostEdit'
 // import PostDetail from './screens/PostDetail/PostDetail'
-import { Route, Switch } from 'react-router-dom'
+import { Route, Switch } from "react-router-dom";
 
 function App() {
   return (
@@ -20,8 +20,6 @@ function App() {
         <Route exact path="/products/:id/edit" component={ProductEdit} />
         <Route exact path="/products/:id" component={ProductDetail} /> */}
       </Switch>
-      
-
     </div>
   );
 }
