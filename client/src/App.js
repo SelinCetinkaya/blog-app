@@ -1,7 +1,7 @@
 import Home from "./screens/Home";
 // import Posts from './screens/Posts'
 
-import Posts from "./screens/Posts";
+// import Posts from "./screens/Posts";
 import "./App.css";
 
 // import Posts from './screens/Posts/Posts'
